@@ -14,7 +14,7 @@
 
 # sanity
 /studio/node_modules
-/studio/.gitignore
+# /studio/.gitignore
 
 # production
 /build
